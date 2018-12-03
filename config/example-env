@@ -1,0 +1,7 @@
+// env template
+apiKey=AIzaSyDCK8UDzkvx0OGfNIEY5rff89E3MUfZEiU
+authDomain=posts-9c2b2.firebaseapp.com
+databaseURL=https://posts-9c2b2.firebaseio.com
+projectId=posts-9c2b2
+storageBucket=posts-9c2b2.appspot.com
+messagingSenderId=989584363301

@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:9000",
+  "env": {
+    "postContent": "Este es un post de prueba"
+  }
+}
